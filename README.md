@@ -122,7 +122,7 @@
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=cristiano-mhpc&repo=Resummation-in-QM&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=cristiano-mhpc&repo=Resummation-of-Heisenberg-Euler-Lagrangian&theme=tokyonight" />
 
 </a>  
 
